@@ -26,3 +26,13 @@ Download:
 
 Screenshots "Bluish-Dark-Plasma":
 ---------------------------------
+
+![Screenshot_20230611_130303](https://github.com/L4ki/Bluish-Plasma-Themes/assets/45247573/d236f5db-52d2-4c5d-971a-c1e5c7c8a57b)
+
+![Screenshot_20230611_231251](https://github.com/L4ki/Bluish-Plasma-Themes/assets/45247573/96159adf-43f9-4029-ac9d-ad866367b132)
+
+![Screenshot_20230616_214813](https://github.com/L4ki/Bluish-Plasma-Themes/assets/45247573/99e5090b-4272-4edb-b9f0-0b7e3f3b59b0)
+
+![Screenshot_20230614_144049](https://github.com/L4ki/Bluish-Plasma-Themes/assets/45247573/f5908026-c844-44eb-b3a0-01255a4360e1)
+
+![Screenshot_20230611_231335](https://github.com/L4ki/Bluish-Plasma-Themes/assets/45247573/bf8bcd7d-c162-422e-9f95-72e1bcacf5ec)
