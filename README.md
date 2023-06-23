@@ -4,7 +4,7 @@ Bluish Themes For Plasma Desktop
 Dark Plasma Theme: "Bluish-Dark-Plasma" 
 ------------------------------
 
-Download: 
+Download: https://www.pling.com/p/2055336/
 -------------------------------------------
 
 
