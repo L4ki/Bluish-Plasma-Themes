@@ -36,3 +36,27 @@ Screenshots "Bluish-Dark-Plasma":
 ![Screenshot_20230614_144049](https://github.com/L4ki/Bluish-Plasma-Themes/assets/45247573/f5908026-c844-44eb-b3a0-01255a4360e1)
 
 ![Screenshot_20230611_231335](https://github.com/L4ki/Bluish-Plasma-Themes/assets/45247573/bf8bcd7d-c162-422e-9f95-72e1bcacf5ec)
+
+
+Changelog: 30.06.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions (symbolic)
+
+GTK Theme
+----------
+
+Update:  tab-down.png
+
+Plasma Theme
+-------------
+
+Added icon : emblem.svg
+
+Aurorae Themes
+---------------
+
+Update: Auroraerc
