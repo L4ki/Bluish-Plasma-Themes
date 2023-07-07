@@ -60,3 +60,22 @@ Aurorae Themes
 ---------------
 
 Update: Auroraerc
+
+
+Changelog: 07.07.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: radio-unchecked-hover.png
+
+Plasma Theme
+-------------
+
+Added icon : ime.svg, fcitx.svg
