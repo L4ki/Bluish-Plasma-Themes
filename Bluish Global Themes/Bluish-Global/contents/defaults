@@ -20,7 +20,7 @@ cursorTheme=breeze_cursors
 Image=Bluish-Wallpaper
 
 [plasmarc][Theme]
-name=Bluish-Plasma
+name=Bluish-Dark-Plasma
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
