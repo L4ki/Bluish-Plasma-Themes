@@ -79,3 +79,21 @@ Plasma Theme
 -------------
 
 Added icon : ime.svg, fcitx.svg
+
+Changelog: 14.07.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32
+
+GTK Theme
+----------
+
+Update:  bullet-symbolic.svg
+
+Plasma Theme
+-------------
+
+Update widget : clock.svg
