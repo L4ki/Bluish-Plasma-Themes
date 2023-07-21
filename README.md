@@ -97,3 +97,21 @@ Plasma Theme
 -------------
 
 Update widget : clock.svg
+
+Changelog: 21.07.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update:  checkmark-symbolic.svg
+
+Plasma Theme
+-------------
+
+Update widget : translucentbackground.svg
