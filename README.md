@@ -115,3 +115,21 @@ Plasma Theme
 -------------
 
 Update widget : translucentbackground.svg
+
+Changelog: 28.07.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: dash-symbolic.svg
+
+Plasma Theme
+-------------
+
+Added icon : kdf.svg
