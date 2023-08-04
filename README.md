@@ -133,3 +133,21 @@ Plasma Theme
 -------------
 
 Added icon : kdf.svg
+
+Changelog: 04.08.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: gtk-2.0
+
+Plasma Theme
+-------------
+
+Added icon : cadence.svg
