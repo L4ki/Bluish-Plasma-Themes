@@ -151,3 +151,21 @@ Plasma Theme
 -------------
 
 Added icon : cadence.svg
+
+Changelog: 11.08.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: gtkrc
+
+Plasma Theme
+-------------
+
+Added icon : corectrl.svg
