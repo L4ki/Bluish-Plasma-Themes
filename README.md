@@ -152,7 +152,7 @@ Plasma Theme
 
 Added icon : cadence.svg
 
-Changelog: 11.08.2023.
+Changelog: 19.08.2023.
 ----------------------
 
 Icons
@@ -163,9 +163,9 @@ Added new icons: apps 32, 48
 GTK Theme
 ----------
 
-Update: gtkrc
+Update: hacks-dark.rc
 
 Plasma Theme
 -------------
 
-Added icon : corectrl.svg
+Added icon : krfb.svg
