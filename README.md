@@ -169,3 +169,8 @@ Plasma Theme
 -------------
 
 Added icon : krfb.svg
+
+Kvantum Theme
+--------------
+
+Update: Bluish-Dark-Kvantum.svg
