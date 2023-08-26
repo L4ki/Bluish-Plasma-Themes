@@ -174,3 +174,22 @@ Kvantum Theme
 --------------
 
 Update: Bluish-Dark-Kvantum.svg
+
+Changelog: 26.08.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: gtkrc
+
+Plasma Theme
+-------------
+
+Added icon : internet.svg
+
