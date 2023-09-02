@@ -193,3 +193,21 @@ Plasma Theme
 
 Added icon : internet.svg
 
+Changelog: 02.09.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: border.png
+
+Plasma Theme
+-------------
+
+Added icon : image.svg
+
