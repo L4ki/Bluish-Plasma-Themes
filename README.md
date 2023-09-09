@@ -211,3 +211,21 @@ Plasma Theme
 
 Added icon : image.svg
 
+Changelog: 09.09.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: treeview-separator-rtl.png
+
+Plasma Theme
+-------------
+
+Added icon : plasma.svg
+
