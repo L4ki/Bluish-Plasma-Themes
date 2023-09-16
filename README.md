@@ -229,3 +229,21 @@ Plasma Theme
 
 Added icon : plasma.svg
 
+Changelog: 16.09.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: frame-notebook.png
+
+Plasma Theme
+-------------
+
+Added icon : lutris.svg
+
