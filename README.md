@@ -247,3 +247,22 @@ Plasma Theme
 
 Added icon : lutris.svg
 
+
+Changelog: 23.09.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: frame-inline.png
+
+Plasma Theme
+-------------
+
+Added icon : offline.svg
+
