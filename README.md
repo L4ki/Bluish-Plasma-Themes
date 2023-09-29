@@ -266,3 +266,22 @@ Plasma Theme
 
 Added icon : offline.svg
 
+
+Changelog: 30.09.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: focus.png
+
+Plasma Theme
+-------------
+
+Added icon : krusader_root.svg, krusader_user.svg
+
