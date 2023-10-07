@@ -285,3 +285,21 @@ Plasma Theme
 
 Added icon : krusader_root.svg, krusader_user.svg
 
+Changelog: 07.10.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: frame.png
+
+Plasma Theme
+-------------
+
+Added icon : onboard.svg
+
