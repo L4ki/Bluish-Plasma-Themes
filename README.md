@@ -303,3 +303,21 @@ Plasma Theme
 
 Added icon : onboard.svg
 
+
+Changelog: 14.10.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: handle.png
+
+Plasma Theme
+-------------
+
+Added icon : org.rnd2.cpupower_gui.svg
