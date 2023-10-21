@@ -321,3 +321,22 @@ Plasma Theme
 -------------
 
 Added icon : org.rnd2.cpupower_gui.svg
+
+
+Changelog: 21.10.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: treeview-separator-ltr.png
+
+Plasma Theme
+-------------
+
+Update widget : line.svg
