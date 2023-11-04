@@ -358,3 +358,21 @@ Plasma Theme
 -------------
 
 Added icon : process.svg
+
+Changelog: 04.11.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: menu-border.png
+
+Plasma Theme
+-------------
+
+Added icon : transform.svg
