@@ -414,3 +414,21 @@ Plasma Theme
 
 Added icon : widget.svg
 
+Changelog: 25.11.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: checkbox-mixed-hover.png
+
+Plasma Theme
+-------------
+
+Update widget : clock.svg
+
