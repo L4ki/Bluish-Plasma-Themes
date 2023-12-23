@@ -496,3 +496,27 @@ Aurorae Themes
 ---------------
 
 Update: restore.svg
+
+
+Changelog: 23.12.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: checkbox-mixed-hover.png
+
+Plasma Theme
+-------------
+
+Added icon : sirikali.svg
+
+Aurorae Themes
+---------------
+
+Update: minimize.svg
