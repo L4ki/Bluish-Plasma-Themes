@@ -555,6 +555,6 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Update widget : accessories.svg
+Added icon : accessories.svg
 
 
