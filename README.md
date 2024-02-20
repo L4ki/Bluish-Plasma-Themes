@@ -39,18 +39,13 @@ Screenshots "Bluish-Dark-Plasma":
 
 _______________________________________________________________________________________________________________________________
 
-Changelog: 13.02.2024.
+Changelog: 20.02.2024.
 ----------------------
 
 Aurorae Themes
 --------------
 
-Update: help.svg
-
-GTK Theme
----------
-
-Update: main.rc
+Update: keepbelow.svg
 
 Icons
 -----
@@ -60,5 +55,5 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Update : colors
+Added icon : sogoupinyin.svg
 
