@@ -1,0 +1,35 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Bluish-Global-6",
+        "Description": "Bluish Global Theme For Plasma 6 by l4k1",
+        "Id": "Bluish-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/Bluish-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2153472",
+        "kns://window-decorations.knsrc/api.kde-look.org/2153469",
+        "kns://colorschemes.knsrc/api.kde-look.org/2055318",
+        "kns://colorschemes.knsrc/api.kde-look.org/2055312",
+        "kns://colorschemes.knsrc/api.kde-look.org/2074164",
+        "kns://icons.knsrc/api.kde-look.org/2055336",
+        "kns://icons.knsrc/api.kde-look.org/2055334",
+        "kns://plasma-themes.knsrc/api.kde-look.org/2055339",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2153468",
+        "kns://wallpaper.knsrc/api.kde-look.org/2055282",
+        "kns://wallpaper.knsrc/api.kde-look.org/2055276"
+    ]
+}
