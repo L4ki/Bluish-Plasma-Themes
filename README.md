@@ -45,7 +45,7 @@ Changelog: 09.05.2024.
 Aurorae Themes
 --------------
 
-Update: mrtadata.desktop
+Update: metadata.desktop
 
 Icons
 -----
