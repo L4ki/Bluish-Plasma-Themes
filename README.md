@@ -39,13 +39,13 @@ Screenshots "Bluish-Dark-Plasma":
 
 _______________________________________________________________________________________________________________________________
 
-Changelog: 20.02.2024.
+Changelog: 09.05.2024.
 ----------------------
 
 Aurorae Themes
 --------------
 
-Update: keepbelow.svg
+Update: mrtadata.desktop
 
 Icons
 -----
@@ -55,5 +55,12 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Added icon : sogoupinyin.svg
+Update widget : clock.svg
 
+Added For Plasma 6
+------------------
+
+- SDDM-6
+- Splasshscreen-6
+- Global Theme 6
+- Aurorae themes 6
