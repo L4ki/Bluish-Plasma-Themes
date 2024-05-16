@@ -39,13 +39,13 @@ Screenshots "Bluish-Dark-Plasma":
 
 _______________________________________________________________________________________________________________________________
 
-Changelog: 09.05.2024.
+Changelog: 16.05.2024.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: main.rc
+Update: gtk-4.0
 
 Aurorae Themes
 --------------
@@ -60,7 +60,7 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Update widget : clock.svg
+Update widget : button.svg
 
 Added For Plasma 6
 ------------------
