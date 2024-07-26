@@ -17,7 +17,6 @@ gtk-color-scheme = "dark_fg_color:#d8d8d8\ndark_bg_color:#282d38"
 gtk-color-scheme = "sidebar_bg:#282d38"
 gtk-color-scheme = "sidebar_fg:#d8d8d8"
 
-
 # Set GTK settings
 gtk-auto-mnemonics =  1
 gtk-primary-button-warps-slider =  1
