@@ -7,7 +7,7 @@
    viewBox="0 0 97.999997 208"
    id="svg2"
    version="1.1"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="tooltip.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -197,14 +197,14 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#22262f"
+     pagecolor="#2b303b"
      bordercolor="#5e81ac"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.1864226"
-     inkscape:cx="-67.787619"
-     inkscape:cy="111.25329"
+     inkscape:zoom="1.5932113"
+     inkscape:cx="62.766314"
+     inkscape:cy="150.32532"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -212,7 +212,7 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -222,10 +222,16 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:pagecheckerboard="true"
-     inkscape:deskcolor="#282d38">
+     inkscape:deskcolor="#2b303c">
     <inkscape:grid
        type="xygrid"
-       id="grid1495" />
+       id="grid1495"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
