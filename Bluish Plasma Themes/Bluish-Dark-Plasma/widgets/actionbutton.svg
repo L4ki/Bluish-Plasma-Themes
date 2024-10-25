@@ -5,7 +5,7 @@
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="actionbutton.svg"
    version="1.0"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:version="0.32"
    id="svg2"
    height="220"
@@ -22,7 +22,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#282d38"
-     bordercolor="#4696c2"
+     bordercolor="#3f92c0"
      borderopacity="1"
      gridtolerance="10000"
      guidetolerance="10"
@@ -30,14 +30,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="-26.499999"
-     inkscape:cy="109.74999"
+     inkscape:cx="59.499997"
+     inkscape:cy="95.749995"
      inkscape:document-units="px"
      width="128px"
      height="128px"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="false"
@@ -58,7 +58,11 @@
        type="xygrid"
        id="grid444"
        originx="0"
-       originy="0" />
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <defs
      id="defs4">
