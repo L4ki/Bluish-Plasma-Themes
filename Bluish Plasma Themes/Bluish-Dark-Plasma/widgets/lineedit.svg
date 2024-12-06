@@ -4,7 +4,7 @@
    height="64"
    width="64"
    sodipodi:version="0.32"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="lineedit.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    inkscape:export-filename="/home/pinheiro/Documents/pics/estilo/plasma/wether.png"
@@ -91,7 +91,7 @@
        transform=&quot;rotate(-90)&quot; /&gt;</defs>
   <sodipodi:namedview
      id="namedview85"
-     pagecolor="#282d38"
+     pagecolor="#2b303c"
      bordercolor="#5e81ac"
      borderopacity="1"
      objecttolerance="10.0"
@@ -104,12 +104,12 @@
      inkscape:current-layer="svg2"
      inkscape:blackoutopacity="0.0"
      inkscape:showpageshadow="false"
-     inkscape:deskcolor="#282d38"
+     inkscape:deskcolor="#2b303c"
      inkscape:zoom="2.3811466"
-     inkscape:cx="-8.3993149"
-     inkscape:cy="87.562857"
+     inkscape:cx="-8.6092977"
+     inkscape:cy="87.77284"
      inkscape:window-width="1920"
-     inkscape:window-height="998"
+     inkscape:window-height="994"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -118,7 +118,10 @@
        type="xygrid"
        id="grid926"
        originx="-47"
-       originy="-1.999968" />
+       originy="-1.999968"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <style
      id="current-color-scheme"
