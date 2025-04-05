@@ -39,18 +39,18 @@ Screenshots "Bluish-Dark-Plasma":
 
 _______________________________________________________________________________________________________________________________
 
-Changelog: 29.03.2025.
+Changelog: 05.04.2025.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: gtk-3.0
+Update: hacks-dark
 
 Icons
 -----
 
-Added new icons: apps 48
+Added new icons: apps 24
 
 Plasma Theme
 -------------
