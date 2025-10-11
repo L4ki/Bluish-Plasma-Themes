@@ -1,0 +1,34 @@
+org.nicotine_plus.Nicotine
+--
+puno
+--
+cantata
+--
+7-days-to-die....
+--
+dolphin su
+--
+zen
+--
+keysmith, marknote
+--
+update: fooyin
+--
+icon-theme.cache
+--
+com.mattjakeman.ExtensionManager
+--
+Light: chess, woedpad
+Dark: abricotine, accerciser
+--
+hexalate
+--
+acetino2
+--
+preferences-system-symbolic
+--
+zen
+--
+lubuntu, arco
+--
+aqsis
